@@ -1,0 +1,8 @@
+<library path="lib/libsimple_smoother">
+    <class type="simple_smoother::SimpleSmoother"
+          base_class_type="smoother::Smoother">
+      <description>
+        Smooth path using simple smoother
+      </description>
+    </class>
+</library>
